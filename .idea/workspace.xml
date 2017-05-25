@@ -2,118 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0293f9ad-f715-44b9-ae1c-bf56c0e52ff6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$13$$anonfun$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$15$$anonfun$16.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$17$$anonfun$18.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$17.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$19.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$20.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$23.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$24.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$25$$anonfun$26.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$25.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$29.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$30.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$31.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$32.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$33.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$34.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$35.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$36.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E0_LoadData$1$$anonfun$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E0_LoadData$1$$anonfun$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E0_LoadData$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E2_ROCandAUC$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E3_Scaling$1$$anonfun$21.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E3_Scaling$1$$anonfun$22.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E3_Scaling$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E3_Scaling$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E4_CategoryData$1$$anonfun$27.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E4_CategoryData$1$$anonfun$28.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E4_CategoryData$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E4_CategoryData$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E5_TuneParam$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E5_TuneParam$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E5_TuneParam$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E5_TuneParam$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E5_TuneParam$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E5_TuneParam$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E6_CrossValidation$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E6_CrossValidation$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E6_CrossValidation$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$$anonfun$E6_CrossValidation$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Classification.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$16.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$17.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$19.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$20.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$5$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$5$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$E2_Explaination$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$E2_Explaination$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$E2_Explaination$3$$anonfun$18.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$E2_Explaination$3$$anonfun$apply$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$E2_Explaination$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$E3_Tuning$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$$anonfun$E3_Tuning$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Clustering.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$E1_recommendations$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$E1_recommendations$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$E1_recommendations$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$E2_productRecommendations$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$E3_modelEvaluation$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$E3_modelEvaluation$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$loadMovieNames$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$loadRatings$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$$anonfun$loadRatings$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Recommendations.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Regression$$anonfun$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Regression$$anonfun$getMapping$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Regression$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Regression.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Stream$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/Stream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/Untitled.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/Aaron_Eckhart_0001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/.ipynb_checkpoints/DimensionReductionPython-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/DimensionReductionPython.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/pc.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/s.csv" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/Untitled.ipynb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction$.class" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction.class" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala" afterPath="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala" />
     </list>
     <ignored path="sparkmllib.iws" />
@@ -140,7 +38,7 @@
       <file leaf-file-name="Clustering.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="119">
               <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <element signature="e#33#72#0" expanded="true" />
@@ -154,10 +52,11 @@
       <file leaf-file-name="DimensionReduction.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            <state relative-caret-position="497">
+              <caret line="111" column="47" selection-start-line="111" selection-start-column="47" selection-end-line="111" selection-end-column="47" />
               <folding>
                 <element signature="e#33#72#0" expanded="true" />
+                <element signature="e#297#332#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -236,6 +135,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,14 +187,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sparkmllib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sparkmllib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -923,6 +836,7 @@
       <workItem from="1495420526515" duration="5958000" />
       <workItem from="1495599068095" duration="16770000" />
       <workItem from="1495671640463" duration="6490000" />
+      <workItem from="1495682882506" duration="3770000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <created>1495425898374</created>
@@ -963,7 +877,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29218000" />
+    <option name="totallyTimeSpent" value="32988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1570" height="978" extended-state="0" />
@@ -978,13 +892,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.50509554" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49490446" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49490446" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.49490446" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -995,7 +910,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1024,169 +938,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Recommendations.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="19" selection-end-column="47" />
-          <folding>
-            <element signature="e#33#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Classification.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="171" column="60" selection-start-line="171" selection-start-column="60" selection-end-line="171" selection-end-column="79" />
-          <folding>
-            <element signature="e#33#72#0" expanded="true" />
-            <element signature="e#4229#4287#0" expanded="true" />
-            <element signature="e#6902#6952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Regression.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#33#72#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="e#33#72#0" expanded="true" />
-            <element signature="e#961#1009#0" expanded="true" />
-            <element signature="e#2506#2528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/NLP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Stream.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#33#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparkmllib.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/derby.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/ml-100k/u.item">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="49" column="2" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/NLP.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Stream.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Bike-Sharing-Dataset/.ipynb_checkpoints/Regression-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Regression.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Classification.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1513">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#33#72#0" expanded="true" />
-            <element signature="e#4229#4287#0" expanded="true" />
-            <element signature="e#6902#6952#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Recommendations.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="19" selection-end-column="47" />
-          <folding>
-            <element signature="e#33#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
             <element signature="e#33#72#0" expanded="true" />
@@ -1198,10 +952,159 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#297#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Recommendations.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Classification.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="171" column="60" selection-start-line="171" selection-start-column="60" selection-end-line="171" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Regression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#961#1009#0" expanded="true" />
+            <element signature="e#2506#2528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/NLP.scala" />
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Stream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#297#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sparkmllib.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt" />
+    <entry file="file://$PROJECT_DIR$/derby.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ml-100k/u.item">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/package.scala" />
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/NLP.scala" />
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Stream.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Bike-Sharing-Dataset/.ipynb_checkpoints/Regression-checkpoint.ipynb" />
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Regression.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Classification.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1513">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Recommendations.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#961#1009#0" expanded="true" />
+            <element signature="e#2506#2528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/Aaron_Eckhart_0001.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/pc.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="111" column="47" selection-start-line="111" selection-start-column="47" selection-end-line="111" selection-end-column="47" />
+          <folding>
+            <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#297#332#0" expanded="true" />
           </folding>
         </state>
       </provider>
