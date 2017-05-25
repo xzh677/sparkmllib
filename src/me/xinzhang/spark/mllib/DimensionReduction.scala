@@ -11,7 +11,14 @@ object DimensionReduction {
   Logger.getLogger("org").setLevel(Level.ERROR)
   val sc = new SparkContext("local[*]", "DimensionReduction")
 
+
+
   def main(args: Array[String]) = {
+
+    val path = "data/lfw"
+    val rdd = sc.wholeTextFiles(path)
+    val first = rdd.first
+    println(first)
 
   }
 
