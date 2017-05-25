@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0293f9ad-f715-44b9-ae1c-bf56c0e52ff6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/Aaron_Eckhart_0001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/.ipynb_checkpoints/DimensionReductionPython-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/DimensionReductionPython.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/pc.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/s.csv" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/Untitled.ipynb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction$.class" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction.class" afterPath="$PROJECT_DIR$/out/production/sparkmllib/me/xinzhang/spark/mllib/DimensionReduction.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Stream.scala" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala" afterPath="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala" />
     </list>
     <ignored path="sparkmllib.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +29,7 @@
       <file leaf-file-name="Clustering.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="0">
               <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <element signature="e#33#72#0" expanded="true" />
@@ -52,8 +43,8 @@
       <file leaf-file-name="DimensionReduction.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="111" column="47" selection-start-line="111" selection-start-column="47" selection-end-line="111" selection-end-column="47" />
+            <state relative-caret-position="439">
+              <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
               <folding>
                 <element signature="e#33#72#0" expanded="true" />
                 <element signature="e#297#332#0" expanded="true" />
@@ -87,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Regression.scala" />
         <option value="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala" />
         <option value="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala" />
+        <option value="$PROJECT_DIR$/src/me/xinzhang/spark/mllib/streaming/StreamingProducer.scala" />
       </list>
     </option>
   </component>
@@ -116,7 +108,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -134,8 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -207,6 +197,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -836,7 +828,8 @@
       <workItem from="1495420526515" duration="5958000" />
       <workItem from="1495599068095" duration="16770000" />
       <workItem from="1495671640463" duration="6490000" />
-      <workItem from="1495682882506" duration="3770000" />
+      <workItem from="1495682882506" duration="3814000" />
+      <workItem from="1495689392470" duration="1099000" />
     </task>
     <task id="LOCAL-00001" summary="none">
       <created>1495425898374</created>
@@ -873,11 +866,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495681843121</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="PCA">
+      <created>1495686675919</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1495686675919</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32988000" />
+    <option name="totallyTimeSpent" value="34131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="23" width="1570" height="978" extended-state="0" />
@@ -885,21 +885,19 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49745223" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.50509554" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49490446" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.49490446" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49490446" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -909,7 +907,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49745223" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -927,7 +927,8 @@
     <MESSAGE value="none" />
     <MESSAGE value="remove unnecessary files" />
     <MESSAGE value="clustering and LFW data (Labeled Faces in the Wild" />
-    <option name="LAST_COMMIT_MESSAGE" value="clustering and LFW data (Labeled Faces in the Wild" />
+    <MESSAGE value="PCA" />
+    <option name="LAST_COMMIT_MESSAGE" value="PCA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -938,6 +939,29 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#961#1009#0" expanded="true" />
+            <element signature="e#2506#2528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#72#0" expanded="true" />
+            <element signature="e#297#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1021,13 +1045,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/metastore_db/log/README_DO_NOT_TOUCH_FILES.txt" />
-    <entry file="file://$PROJECT_DIR$/derby.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/derby.log" />
     <entry file="file://$PROJECT_DIR$/data/ml-100k/u.item">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -1075,7 +1093,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/Clustering.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="0">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
             <element signature="e#33#72#0" expanded="true" />
@@ -1094,14 +1112,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-765">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/streaming/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/streaming/StreamingProducer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/xinzhang/spark/mllib/DimensionReduction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="111" column="47" selection-start-line="111" selection-start-column="47" selection-end-line="111" selection-end-column="47" />
+        <state relative-caret-position="439">
+          <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
           <folding>
             <element signature="e#33#72#0" expanded="true" />
             <element signature="e#297#332#0" expanded="true" />
